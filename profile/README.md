@@ -12,7 +12,7 @@ By the end of this course, you will be able to:
 ## Assignments
 ||Title|Challenge|Open|Due|Link|
 |-|-|-|:-:|:-:|:-:|
-|HW1|Familiar with R basics & submit homework on github|⭐|02/23|03/09|[🔗](https://classroom.github.com/a/iiu49CN9)|
+|HW1|Familiar with R basics & submit homework on github|⭐|02/23|03/09||
 |HW2|Evalute a mode for predicting loans that are about to default|⭐⭐|03/02|03/16||
 |HW3|Predict protein subcellular localization|⭐⭐⭐|03/16|03/30||
 |HW4|Interactive web service of PCA and CA analysis by Shinyapp|⭐⭐⭐⭐⭐|04/06|04/20|
@@ -21,6 +21,8 @@ By the end of this course, you will be able to:
 |HW7|Kaggle: internal course competition|⭐⭐⭐⭐|06/01|06/15||
 
 _Note: The star rating is based on the TA's subjective perception_
+
+<!--[🔗](https://classroom.github.com/a/iiu49CN9)-->
 
 ## About final project
 The final project of this course calls for students from different departments to work together and implement a data science project. The project topic can be sourced from public data, public competitions (i.e., Kaggle) or your own dataset. Each group of students is expected to thoroughly organize the project into a complete and public github repository, and communicate effectively with their classmates.
